@@ -7,7 +7,7 @@ class App extends Component {
   render() {
     return (
       <div>
-      <h1 style = {{fontSize: 50, textAlign: 'center', fontFamily: 'times'}}>Time you had spend here:</h1>
+      <h1 style = {{fontSize: 80, textAlign: 'center', fontFamily: 'times'}}>Timer</h1>
       <Timer/>
       </div>
     );
